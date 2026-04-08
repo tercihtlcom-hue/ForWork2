@@ -1,0 +1,16 @@
+{
+  "name": "ForWork - Günlük İş Planlama",
+  "short_name": "ForWork",
+  "description": "Günlük işlerinizi planlayın ve takip edin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfbfb",
+  "theme_color": "#6a0dad",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
